@@ -23,3 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 
+/.idea/.gitignore
+/.idea/cra-console.iml
+/.idea/modules.xml
+/.idea/vcs.xml
+/src/Test/Test.tsx
